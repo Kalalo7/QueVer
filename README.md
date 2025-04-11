@@ -72,7 +72,8 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más 
 
 - GitHub: kalalo7
 - Email: martinfauci@gmail.com
-- Portfolio:
+- Portfolio: https://kalalo7.github.io/Portfolio/
+## 🎉 ¡Gracias por visitar ¿Qué Veo?!
+```
 Desarrollado con ❤️ por Kalalo7
  ```
- 
