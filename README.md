@@ -4,6 +4,8 @@
 
 ¿Qué Veo? es una aplicación web moderna que te permite explorar, descubrir y guardar tus películas y series favoritas. Diseñada con una interfaz intuitiva y atractiva, esta plataforma te ayuda a encontrar tu próximo contenido para ver.
 
+🌐 **[Ver Demo en vivo](https://quever-kalalo7s.vercel.app/)**
+
 ## ✨ Características principales
 
 - 🎬 **Exploración de contenido**: Navega por películas y series populares, mejor valoradas y próximos estrenos
@@ -73,6 +75,8 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más 
 - GitHub: kalalo7
 - Email: martinfauci@gmail.com
 - Portfolio: https://kalalo7.github.io/Portfolio/
+- Demo: https://quever-kalalo7s.vercel.app/
+
 ## 🎉 ¡Gracias por visitar ¿Qué Veo?!
 ```
 Desarrollado con ❤️ por Kalalo7
