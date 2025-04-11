@@ -47,7 +47,24 @@
    ```
 5. Abre http://localhost:3000 en tu navegador.
 
-📸 Capturas de pantalla
+## 📸 Capturas de pantalla
+
+### Página Principal
+![Página Principal](https://res.cloudinary.com/conectart/image/upload/v1744391108/rh6bqrpllvklddayrlnm.png)
+
+### Sección de Películas
+![Películas](https://res.cloudinary.com/conectart/image/upload/v1744391109/p5vryrsweickbc6ozifp.png)
+
+### Sección de Series
+![Series](https://res.cloudinary.com/conectart/image/upload/v1744391108/grphvgwpfiy4zbegqsus.png)
+
+### Detalles de Películas
+![Detalles de Películas](https://res.cloudinary.com/conectart/image/upload/v1744391109/ygedno0myecd1rpusw6q.png)
+![Más Detalles](https://res.cloudinary.com/conectart/image/upload/v1744391108/rjddhm5pesf2elsdofsg.png)
+
+### Lista de Favoritos
+![Favoritos](https://res.cloudinary.com/conectart/image/upload/v1744391109/bwf9kkdtphoq9ritx3vr.png)
+
 ## 🌟 Funcionalidades destacadas
 ### Exploración intuitiva
 Navega fácilmente entre diferentes categorías de contenido con una interfaz limpia y organizada.
